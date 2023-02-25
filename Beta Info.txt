@@ -1,4 +1,4 @@
 NDS_Tegra
 ---------
 
-(1) Diese Anwendung befindet sich noch im Beta-Status.
+(1) Diese Anwendung befindet sich noch im Beta-Status. 
